@@ -14,9 +14,9 @@ Welcome to my GitHub profile! I'm a passionate **Data Analyst** and **Machine Le
 
 ## 🔧 Skills & Technologies
 
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F68B20?style=for-the-badge&logo=google%20cloud&logoColor=white) | ![Generative AI](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) | 
-|:---:|:---:|:---:|
-| ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FFA500?style=for-the-badge&logo=chart.js&logoColor=white) | ![Deep Learning](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white) | ![SQL](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F68B20?style=for-the-badge&logo=google%20cloud&logoColor=white) | ![Generative AI](https://img.shields.io/badge/Generative%20AI-FF5722?style=for-the-badge&logo=chatgpt&logoColor=white) | ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-7B1FA2?style=for-the-badge&logo=tensorflow&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-FF7F50?style=for-the-badge&logo=mysql&logoColor=white) | 
+|:---:|:---:|:---:|:---:|:---:|
+
 
 ---
 
