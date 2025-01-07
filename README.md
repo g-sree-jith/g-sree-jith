@@ -1,4 +1,4 @@
-# 🌈 Hello, I'm G Sreejith! 👋
+# Hello, I'm G Sreejith! 👋
 
 Welcome to my GitHub profile! I'm a passionate **Data Analyst** and **Machine Learning** enthusiast dedicated to leveraging technology for the greater good. 🚀 With a focus on **AI** and **Data Science**, I aim to create innovative solutions that make a difference. 💡
 
