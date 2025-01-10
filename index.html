@@ -1,41 +1,150 @@
-<!-- TODO 1: Create the HTML Boilerplate -->
- <!DOCTYPE html>
- <html lang = "en">
-    <head>
-        <meta charset="UTF-8">
-        <title>G Sreejith</title>
-    </head>
+<!DOCTYPE html>
+<html lang="en">
 
-    <body>
-        <h1>G Sreejith 's Portfolio</h1>
-        <h2>I am a GenAI Developer</h2>
-        <hr>
-        <h3> <a href="./public/movie-ranking.html">Movie Ranking Project</a></h3>
-        <img src="./assets/images/movie-ranking.jpg" height=200 alt="movie project">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>G Sreejith - Portfolio</title>
+    <style>
+        /* Global Styles */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f4f4f9;
+        }
 
-        <h3> <a href="./public/birthday-invite.html">Birthday Invite Project</a></h3>
-        <img src="./assets/images/birthday-invite.jpg" height=200 alt="birthday-invite">
-        <hr>
+        header {
+            background-color: #0078D7;
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 2.5rem;
+        }
+
+        header h2 {
+            margin: 10px 0 0;
+            font-weight: 300;
+        }
+
+        nav {
+            background: #333;
+            color: #fff;
+            padding: 10px 0;
+            text-align: center;
+        }
+
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 15px;
+            font-weight: bold;
+        }
+
+        nav a:hover {
+            text-decoration: underline;
+        }
+
+        section {
+            max-width: 1100px;
+            margin: 20px auto;
+            padding: 20px;
+        }
+
+        .projects {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            justify-content: center;
+        }
+
+        .project {
+            background: #fff;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            width: 300px;
+            overflow: hidden;
+            text-align: center;
+        }
+
+        .project img {
+            width: 100%;
+            height: auto;
+        }
+
+        .project h3 {
+            background: #0078D7;
+            color: #fff;
+            margin: 0;
+            padding: 10px 0;
+        }
+
+        .project a {
+            display: block;
+            padding: 10px 0;
+            color: #0078D7;
+            font-weight: bold;
+            text-decoration: none;
+        }
+
+        .project a:hover {
+            text-decoration: underline;
+        }
+
+        footer {
+            background: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            margin-top: 20px;
+        }
+
+        footer p {
+            margin: 0;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>G Sreejith</h1>
+        <h2>GenAI Developer | Data Scientist</h2>
+    </header>
+
+    <nav>
         <a href="./public/about.html">About Me</a>
         <a href="./public/contact.html">Contact Me</a>
-    </body>
+    </nav>
 
- 
- 
- 
- 
+    <section>
+        <h2>Projects</h2>
+        <div class="projects">
+            <!-- Movie Ranking Project -->
+            <div class="project">
+                <img src="./assets/images/movie-ranking.jpg" alt="Movie Ranking Project">
+                <h3>Movie Ranking Project</h3>
+                <a href="./public/movie-ranking.html">View Project</a>
+            </div>
+
+            <!-- Birthday Invite Project -->
+            <div class="project">
+                <img src="./assets/images/birthday-invite.jpg" alt="Birthday Invite Project">
+                <h3>Birthday Invite Project</h3>
+                <a href="./public/birthday-invite.html">View Project</a>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 G Sreejith. All Rights Reserved.</p>
+    </footer>
+</body>
+
 </html>
-
-<!-- TODO 2: Add Your previous projects' HTML into the public folder -->
-
-<!-- TODO 3: Take screenshots of your project previews and add the images to the images folder -->
-
-<!-- TODO 4: Add titles/subtitles etc. -->
-
-<!-- TODO 5: Add a link to the project pages -->
-
-<!-- TODO 6: Add images to show the project previews
-HINT for TODO 6: You can use the height attribute set to 200 to make the image smaller:
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img#attr-height -->
-
-<!-- TODO 7: Add the Contact Me and About Me page links -->
